@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, My name is RAHUL NAINWAL
+🙎🏻‍♂️ I am a software engineer working on cross platform applications using react-native library by meta.<br>
+👨🏻‍💻 **Technology i used to work on**<br>
+🚀 JavaScript, React, React-Native, Firebase, aws-appsync, aws-amplify, aws-amplify-datastore, GraphQL, Redux, redux-thunk, redux-saga.<br>
+🛠 Version Control - GitHub, GitLab, Bitbucket, CodeCommit.<br>
+💻 Software tools - Android Studio, xCode, visual studio code.<br>
+✅ Feel free to check my repositorys about react, react-native and redux.<br>
 
 <!--
 **rahulnainwal107/rahulnainwal107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
