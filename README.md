@@ -8,23 +8,25 @@
 - React Native 
 - Firebase
 - aws-appsync
-- aws-amplify
-- aws-amplify-datastore
+- aws-amplify (datastore)
 - GraphQL
 - Redux
 - redux-thunk
-- redux-saga<br>
+- redux-saga
+- SQLite<br>
 
 🛠 **Version Control**
 - GitHub
 - GitLab
 - Bitbucket
-- CodeCommit<br>
+- CodeCommit
+- Figma<br>
 
 💻 **Software/Tools** 
 - Android Studio
 - xCode
-- Visual Studio Code<br>
+- Visual Studio Code
+- Postman<br>
 
 ✅ Feel free to check my repositorys about react, react-native and redux.<br>
 💬 Ask me about **JavaScript, react, react-native.**<br>
