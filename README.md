@@ -3,6 +3,7 @@
 🙎🏻‍♂️ I am a react-native developer.<br>
 🚀 **Technologies I work on**
 - JavaScript
+- TypeScript
 - React
 - React Native 
 - Firebase
