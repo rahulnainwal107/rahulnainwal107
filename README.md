@@ -20,12 +20,12 @@
 - GitLab
 - Bitbucket
 - CodeCommit
-- Figma<br>
 
 💻 **Software/Tools** 
 - Android Studio
 - xCode
 - Visual Studio Code
+- Figma
 - Postman<br>
 
 ✅ Feel free to check my repositorys about react, react-native and redux.<br>
